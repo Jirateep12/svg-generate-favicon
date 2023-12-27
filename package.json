@@ -1,0 +1,15 @@
+{
+  "name": "svg-generate-favicon",
+  "version": "1.0.0",
+  "description": "favicon generator",
+  "scripts": {
+    "generate": "node server.js"
+  },
+  "keywords": [],
+  "author": "@jirateep12",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.33.1",
+    "to-ico": "^1.1.5"
+  }
+}
